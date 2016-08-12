@@ -1,0 +1,5 @@
+node_modules/
+babel/
+.idea/
+dist/index.js
+src/js
